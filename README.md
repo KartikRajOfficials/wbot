@@ -1,5 +1,5 @@
 <!-- <h1 align="center">
-  <a href="https://github.com/tuhinpal/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
+  <a href="https://gitsBot"><img src="httpsra.pe/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
   <br>
 <b>Whatsbot</b>
 </h1>
@@ -63,7 +63,7 @@
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/tuhinpal/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/KartikRajOfficials/wbot/tree/main "Deploy with Heroku")<br>
 
 <!-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RTyLts?referralCode=tuhin) -->
 
