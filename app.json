@@ -1,19 +1,17 @@
 {
   "name": "Whatsbot",
-  "description": "Modular Userbot for Whatsapp",
-  "repository": "https://github.com/TheWhatsBot/WhatsBot",
+  "description": "Modular Us**B*t for Whatsapp",
+  "repository": "https://github.com/tuhinpal/WhatsBot",
   "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
-  "keywords": [
-    "whatsbot",
-    "whatsapp-userbot",
-    "whatsapp-bot",
-    "whatsapp-userbot",
-    "whatsapp"
-  ],
+  "keywords": ["whatsbot", "whatsapp-bot", "whatsapp"],
   "stack": "container",
   "env": {
-    "SESSION": {
-      "description": "Puppeteer Session. Get it by running genToken.js",
+    "SESSION_KEY": {
+      "description": "Session encryption password",
+      "value": ""
+    },
+    "SESSION_URL": {
+      "description": "session.secure public url (It is safe because it is encrypted, But still if you want maybe you can create some sort of authorization stuff)",
       "value": ""
     },
     "PMPERMIT_ENABLED": {
@@ -22,14 +20,6 @@
     },
     "MONGODB_URL": {
       "description": "MongoDB URL, Get it for free from cloud.mongodb.com",
-      "value": ""
-    },
-    "PMPERMIT_MUTETIME": {
-      "description": "How many seconds an user get muted if he is spamming. Default is 30 Minutes (1800 Secs)",
-      "value": "1800"
-    },
-    "YT_DATA_API_KEY": {
-      "description": "Youtube DATA API key, grab it from cloud.google.com",
       "value": ""
     },
     "DEFAULT_TR_LANG": {
@@ -42,10 +32,6 @@
     },
     "OCR_SPACE_API_KEY": {
       "description": "Get it from https://ocr.space/OCRAPI",
-      "value": ""
-    },
-    "INFOSPACE_API_KEY": {
-      "description": "Get it from https://infospace.club",
       "value": ""
     }
   }
