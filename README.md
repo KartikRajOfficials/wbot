@@ -1,31 +1,4 @@
-<!-- <h1 align="center">
-  <a href="https://github.com/tuhinpal/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
-  <br>
-<b>Whatsbot</b>
-</h1>
-<h4 align="center">Moduler UserBot for Whatsapp</h4> -->
 
-![WhatsBot](https://socialify.git.ci/tuhinpal/WhatsBot/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
-
-<p align="center">
-<a href="https://github.com/tuhinpal/WhatsBot/releases">
-    <img src="https://shields.io/badge/WHATSBOT-Version--3.0.0-red?logo=whatsapp&style=for-the-badge"
-         alt="Version"></a><br>
-   <a href="https://github.com/tuhinpal/WhatsBot/wiki">
- <img src="https://shields.io/badge/WIKI-red?style=for-the-badge" alt="Wiki"></a>
-  <a href="https://github.com/tuhinpal/WhatsBot/wiki/Demo">
- <img src="https://shields.io/badge/DEMO-red?style=for-the-badge" alt="Demo"></a>
-    <a href="#deploy-">
-<img src="https://shields.io/badge/DEPLOY-red?style=for-the-badge" alt="Deploy"></a>
-    <a href="#credits-">
-<img src="https://shields.io/badge/Credits-red?style=for-the-badge" alt="Credits"></a>
-   <a href="#inspiration-">
- <img src="https://shields.io/badge/Inspiration-red?style=for-the-badge" alt="Inspiration"></a>
-   <a href="#develop-">
- <img src="https://shields.io/badge/Develop-red?style=for-the-badge" alt="Develop"></a><br>
-    <a href="#contributors-">
-<img src="https://shields.io/badge/Whatsbot-Contributors-red?style=for-the-badge" alt="Contributors"></a>
-</p>
 
 <br>
 
@@ -63,7 +36,7 @@
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/tuhinpal/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy? "Deploy with Heroku")<br>
 
 <!-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RTyLts?referralCode=tuhin) -->
 
